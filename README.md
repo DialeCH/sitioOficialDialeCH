@@ -10,7 +10,7 @@ Bienvenid@, este es el repositorio de mi futura pagina web!
 
 ## ¿Deseas ayudar? 🖇️
 
-No dudes en hacerlo, haz un fork a este proyecto y haz un pull request! 😉
+No dudes en hacerlo, haz un fork a este proyecto y (Despues de haber hecho los cambios) haz un pull request! 😉
 
 ## Autor ✒️
 
