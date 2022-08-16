@@ -4,9 +4,10 @@ Bienvenid@, este es el repositorio de mi futura pagina web!
 
 ## Construido con 🛠️
 
-* [Visual Studio Code](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Visual Studio Code]((https://code.visualstudio.com/)) - Editor de codigo.
+* [JS](https://developer.mozilla.org/es/docs/Web/JavaScript) - Lenguaje de programación interpretado.
+* [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - Lenguaje de diseño gráfico.
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - Lenguaje de código que se utiliza para estructurar y desplegar una página web y sus contenidos.
 
 ## ¿Deseas ayudar? 🖇️
 
